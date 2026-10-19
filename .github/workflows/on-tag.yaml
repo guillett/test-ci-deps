@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test-on-windows:
+  hi-call:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Say hi"
